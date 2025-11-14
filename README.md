@@ -14,7 +14,7 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkhilbutolakaizen" alt="nikkhilbutolakaizen" /></a> </p>
  
-- 🔭 I’d previously working on **Kaizen Hub(Portal Backend & Architecture)**
+- 🔭 I’d currently working on **HealthCare AI Co-Pilots @Stealth AI (Application Fullstack Backend & Architecture)**
  
 - 🌱 I’m currently learning **Adv. Golang (Gin Framework) & Rust**
  
@@ -22,7 +22,7 @@
  
 - 💬 Ask me about my professional journey and experience I have in **Core Python3(>6.3 yrs: DjangoRF, Fast API), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework), AWS Services (~5 years), Azure Web Services (1.5 years)**
  
-- 📫 You can reach me @ **nikkhil.butola@outlook.com**
+- 📫 You can reach me @ **nikkhilbutola13@outlook.com**
   
 - 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1uwfBt5drNZfN4PRZ5LZQIWDNuRDTVvIJ/view?usp=sharing)**
  
